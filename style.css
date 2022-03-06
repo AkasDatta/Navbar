@@ -1,0 +1,102 @@
+*{
+  scroll-behavior: smooth;
+}
+
+.navbar{
+    background: #f3fafe;
+}
+    .navbar .nav-item{
+        margin-right: 15px;
+}
+
+#home-section{
+    min-height: 100px;
+    background: #f3fafe;
+}
+    #home-section    .home-inner{
+        padding-top: 150px;
+        padding-bottom: 50px;
+    }
+    #home-section    .lead_1{
+        font-size: 30px;
+        color: #000;
+    }
+    #home-section .col-md-12{
+        text-align: left;
+    }
+    #home-section    .hexa    .col-md-12{
+        padding-left: 250px;
+    }
+    #home-section .card{
+        background: #f3fafe;
+}
+
+#features{
+    min-height: 100px;
+    background: #fff;
+}
+#home-section1 .features .d-none{
+    margin-left:8px;
+}
+     #features .col-md-12{
+        text-align: center;
+    }
+     #features   .home-inner{
+        padding-top: 15px;
+        padding-bottom: 50px;
+    }
+    #features    .mb-4{
+        font-size:30px;
+    }
+    #features    .card{
+         background: #fff;   
+}
+
+#manago{
+    background: #f3fafe;
+    margin-left: 8px;
+}
+     #manago .col-md-12{
+        text-align: center;
+    }
+     #manago   .home-inner{
+        padding-top: 15px;
+        padding-bottom: 50px;
+    }
+     #manago    .col-md-6 .lead_1{
+        font-size:12px;
+    }
+     #manago   .mb-4{
+        font-size:18px;
+    }
+     #manago   .btn{
+        font-size:14px;
+}
+
+#footer{
+    background: #fff;
+}
+#home-section3    .footer  .col-md-4 .lead_1{
+        font-size: 20px;
+}
+    #footer    .fas{
+        font-size: 50px;
+    }
+    #footer    .home-inner{
+        padding-top: 15px;
+        padding-bottom: 50px;
+    }
+    #footer    .card{
+     background: #f3fafe;
+    }
+    #footer    .mr-2{
+        font-size: 20px;
+}
+
+/*===== css =====*/
+/*===== css =====*/
+/*===== css =====*/
+/*===== css =====*/
+/*===== Computer and large & extra-large device=====*/
+@media screen and (min-width: 768px)
+{
